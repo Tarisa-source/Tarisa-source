@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tarisa</h1>
-<h3 align="center">A backend developer from Indonesia</h3>
+<h3 align="center">A Odoo Developer from Indonesia</h3>
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarisa-source&label=Profile%20views&color=0e75b6&style=flat" alt="tarisa-source" /> </p>
