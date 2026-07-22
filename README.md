@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tarisa-source&label=Profile%20views&color=0e75b6&style=flat" alt="tarisa-source" /> </p>
 
-- 🌱 I’m currently learning **Node Js, HTML, PHP, MySql**
+- 🌱 I’m currently learning **Odoo V16, Python, PostgreSql, XML, ERP, ORM**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tarisa-source](https://github.com/Tarisa-source)
 
